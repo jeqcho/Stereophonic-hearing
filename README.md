@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-This program implements the NEAT algorithm developed by Kenneth O. Stanley and Risto Miikkulained from the University of Texas.
+This program implements the NEAT algorithm developed by Kenneth O. Stanley and Risto Miikkulainen from the University of Texas.
