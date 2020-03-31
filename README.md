@@ -1,4 +1,4 @@
-# Biaural-model
+# Stereophonic hearing
 This neural network program models how humans or animals determine the direction of the source of a sound using two ears. The sensory information fed into the network is the intensity of sound in each ear and the time delay between each ear. The model is trained using NEAT (NeuroEvolution of Augmenting Topologies).
 
 ## Getting Started
