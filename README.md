@@ -60,7 +60,7 @@ Currently, this is the first version of the program.
 
 ## Authors
 
-* **Chooi Je Qin** - *Initial work* - [Biaural-model](https://github.com/Biaural-model)
+* **Chooi Je Qin** - *Initial work* - [Stereophonic-hearing](https://github.com/jeqinchooi/Stereophonic-hearing)
 
 See also the list of [contributors](https://github.com/jeqinchooi/jeqinchooi/contributors) who participated in this project.
 
