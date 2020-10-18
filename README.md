@@ -2,7 +2,7 @@
 This neural network program models how humans or animals determine the direction of the source of a sound using two ears. The sensory information fed into the network is the intensity of sound in each ear and the time delay between each ear. The model is trained using NEAT (NeuroEvolution of Augmenting Topologies).
 
 The program also provides visualisation of the best performing network in each generation:
-![Stereophonic hearing demonstration](https://chojeq.com/stereophonic-hearing.png)
+![Stereophonic hearing demonstration](https://chojeq.com/home/img/stereophonic-hearing.png)
 
 ## Getting Started
 
