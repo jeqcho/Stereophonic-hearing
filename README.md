@@ -62,8 +62,6 @@ Currently, this is the first version of the program.
 
 * **Chooi Je Qin** - *Initial work* - [Stereophonic-hearing](https://github.com/jeqinchooi/Stereophonic-hearing)
 
-See also the list of [contributors](https://github.com/jeqinchooi/jeqinchooi/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
